@@ -1,14 +1,4 @@
-alert('こんにちは')
-const a = 10;
-console.log(a);
-
-//ウィンドウ上でスクロールする毎に「スクロール」と座標が出力される
-window.addEventListener('scroll',()=>{
-    console.log('スクロール',window.scrollX, window.scrollY);
-});
-const size = document.querySelector('#information');
-size.style.fontSize = '70px';
-
+//「スクロール」毎に、座標分-を-scroll-y変数に代入
 let root = document.documentElement;
 
 window.addEventListener("scroll", () => {
