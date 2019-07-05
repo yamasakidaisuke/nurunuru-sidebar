@@ -7,7 +7,7 @@ article {
 body {
 	position: relative;
 }
-#sideber {
+#sidebar {
   position: absolute;
   width: 155px;
   -webkit-transition: transform 1s cubic-bezier(0.23, 1, 0.32, 1);
