@@ -1,5 +1,7 @@
 # nurunuru-sidebar
 サイドバーがぬるぬる付いてくる
+## まずはデモ
+[https://yamasakidaisuke.github.io/nurunuru-sidebar/][7]
 ## 説明
 * 『JavaScripptコードレシピ集』を参考に一から学び直し
 * JSで動作
@@ -17,3 +19,4 @@
 [4]:https://kuroeveryday.blogspot.com/2018/03/change-css-valiables-by-javascript.html
 [5]:http://kachibito.net/snippets/set-css-variable-with-javascript
 [6]:https://developer.mozilla.org/ja/docs/Web/CSS/timing-function
+[7]:https://yamasakidaisuke.github.io/nurunuru-sidebar/
